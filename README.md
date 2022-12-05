@@ -4,3 +4,8 @@
 
 ![Screenshot](images/1.jpeg)
 ![Screenshot](images/2.jpeg)
+
+## List View Widget
+![Screenshot](images/2.1.jpeg)
+![Screenshot](images/2.2.jpeg)
+![Screenshot](images/2.3.jpeg)
